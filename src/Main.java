@@ -9,6 +9,7 @@ public class Main {
 
             book1.adjustStock(5);
             System.out.println();
+            System.out.println("Masukin perubahan disinii");
 
             lib.displayLibraryInfo();
         }
